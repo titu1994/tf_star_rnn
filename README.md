@@ -5,7 +5,7 @@ Tensorflow 2.0 implementation of STAckable Recurrent (STAR) neural networks from
 Code ported from original authors implementation - https://github.com/0zgur0/STAR_Network
 
 # Stackable RNN
-
+<img src="https://github.com/titu1994/tf_star_rnn/blob/master/images/star_rnn_cell.png?raw=true" height=100% width=100%>
 
 ## Usage
 
